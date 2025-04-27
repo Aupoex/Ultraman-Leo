@@ -1,0 +1,29 @@
+{
+  "item.transformation_device.use": {
+    "subtitle": "subtitle.ultramanleo.item.transformation_device.use",
+    "sounds": [
+      "ultramanleo:transform_sound"
+    ]
+  },
+
+  "skill.z.start": {
+    "subtitle": "subtitle.ultramanleo.skill.z.start",
+    "sounds": [
+      {
+        "name": "ultramanleo:skill_z_start",
+        "stream": true
+      }
+    ]
+  },
+
+
+
+  "skill.x.shoot": {
+    "subtitle": "subtitle.ultramanleo.skill.x.shoot",
+    "sounds": [
+      "ultramanleo:skill_x_shoot"
+    ]
+  }
+
+
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "S": {
+      "item": "minecraft:iron_sword"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "O O",
+    " S ",
+    "R R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ultramanleo:transformation_device"
+  }
+}
